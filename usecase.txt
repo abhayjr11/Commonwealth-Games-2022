@@ -1,0 +1,22 @@
+1. Total number of player participated?
+2. Total countries participated?
+3. Total games in Commonwealth Games Birmingham 2022?
+4. Which country has most number of players? (GRAPH : histogram, piechart)
+5. Which country has least number of players?
+6. Which game has most number of participants? (GRAPH : histogram, scatterplot)
+7. Which game has least number of participants?
+8. How many Indian players participated in commonwelth games 2022?
+9. How many male and female players participated from India? (GRAPH : pie chart)
+10. List the games India participated?
+11. list the player names from India.
+11. Which contory wons most number of medals? (GRAPH : histogram, piechart)
+12. Which contory wons most number of Gold medals? (GRAPH : histogram, piechart)
+13. Which contory wons most number of Silver medals? (GRAPH : histogram, piechart)
+14. Which contory wons most number of Bronze medals? (GRAPH : histogram, piechart)
+15. How many Gold, Silver and Bronze medals India won? (GRAPH : histogram, piechart)
+16. List the games india won gold medals.
+17. List the all Indian player won medal with demal color.
+18. list the indian women cricket team players.
+20. list the female player how won silver medals.
+21. list the male won gold for india.
+
